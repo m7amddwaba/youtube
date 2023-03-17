@@ -9,26 +9,30 @@ body {
 header {
     background-color: #333;
     color: white;
-    padding: 1px;
+    padding: 0.5px;
+    height: 100%;
+    width: 100%;
 }
 
 .ii {
     width: 1cm;
     float: left;
     margin-right: 10px;
-    margin-top: 15px;
-}
-
-.pp {
-    width: 1.2cm;
-    float: right;
     margin-left: 10px;
     margin-top: 15px;
 }
 
 .SS {
-    float: left;
-    margin-right: 15px;
+    margin-top: 15px;
+    height: 250px;
+}
+
+.pp {
+    width: 1.2cm;
+    float: right;
+    font-style: normal;
+    margin-right: 10px;
+    margin-left: 10px;
     margin-top: 15px;
 }
 
@@ -36,6 +40,25 @@ header {
     font-size: xx-large;
     font-style: oblique;
     font-weight: bolder;
-    margin-left: 8px;
     color: red;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 100cm;
+}
+
+.qq {
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-left: 8px;
+    text-shadow: 2px 2px 2px black;
+    color: red;
+}
+
+.ff {
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: bolder;
+    margin-left: 8px;
+    text-shadow: 2px 2px 2px red;
+    color: rgb(0, 0, 0);
 }
