@@ -1,0 +1,41 @@
+body {
+    background-image: url("./imge/4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1px;
+}
+
+.ii {
+    width: 1cm;
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.pp {
+    width: 1.2cm;
+    float: right;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.SS {
+    float: left;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.KK {
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-left: 8px;
+    color: red;
+}
